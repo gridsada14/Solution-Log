@@ -20,7 +20,7 @@ git push
 
 ## add folder on GitHub
 1. add file > create new file 
-2. add "\" for tell it's folder  
+2. add "\\" for tell it's folder  
 ```
 (folder)\file.py
 ```
