@@ -1,2 +1,2 @@
 # Solution-Log
-All my fixed problem here!
+All my fixed problems here!
